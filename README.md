@@ -1,5 +1,3 @@
----
-
 # Movie Ranking Web App
 
 This is a Flask-based web application that allows you to manage and rank your favorite movies. It integrates with The Movie Database (TMDb) API to fetch movie information and uses SQLite for local data storage.
